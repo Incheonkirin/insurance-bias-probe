@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+uv.lock
+.env
+data/results/
+*.parquet
+.DS_Store
+.cache/
+hf_cache/
